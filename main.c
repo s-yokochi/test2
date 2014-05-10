@@ -2,4 +2,5 @@
 void main()
 {
     printf("hello\n"); //ƒRƒƒ“ƒg
+    printf("funcA")
 }
